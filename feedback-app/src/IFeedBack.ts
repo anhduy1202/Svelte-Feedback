@@ -1,4 +1,4 @@
-export interface FeedBack{
+export interface FeedBack {
     id: number,
     rating: number,
     text: string,
